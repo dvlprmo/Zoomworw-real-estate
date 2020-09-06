@@ -1,0 +1,147 @@
+101
+Greene
+3
+2
+500
+224 Garfield Ave
+images/101.jpg
+102
+Greene
+3
+1
+550
+5501 Cheshire Ct
+images/102.jpg
+103
+Montgomery
+2
+1
+500
+8 Valley Rd
+images/103.jpg
+104
+Greene
+3
+2
+725
+60 N Cloister St
+images/104.jpg
+105
+Montgomery
+3
+1+half
+500
+91 Rt 50
+images/105.jpg
+106
+Clark
+3
+1
+650
+777 Blevins Ave
+images/106.jpg
+107
+Clark
+2
+1+half
+600
+18 Oliver Cir
+images/107.jpg
+201
+Greene
+3
+3
+800
+49A Ingersoll Rd
+images/201.jpg
+202
+Montgomery
+2
+2
+850
+9919 Odessa Ct
+images/202.jpg
+203
+Clark
+2
+2+half
+1050
+12 Cloverfield St
+images/203.jpg
+204
+Montgomery
+3
+2
+1000
+441 County Line Rd
+images/204.jpg
+205
+Montgomery
+3
+3
+975
+8189 Visionary Ln
+images/205.jpg
+206
+Greene
+3
+2+half
+975
+14 E 65th St
+images/206.jpg
+207
+Clark
+2
+2
+875
+7 N Main St
+images/207.jpg
+301
+Clark
+4
+3
+120000
+14800 Victory Ln
+images/301.jpg
+302
+Montgomery
+4
+2
+100000
+78881 Gower Fields Rd
+images/302.jpg
+303
+Greene
+3
+3
+135000
+1010 Bakersfield Ctr
+images/303.jpg
+304
+Clark
+3
+2+half
+120000
+1201 Center Ave
+images/304.jpg
+305
+Greene
+4
+3
+150000
+46 Arlington Blvd
+images/305.jpg
+306
+Clark
+3
+2+half
+140000
+42 Wallaby Way
+images/306.jpg
+307
+Montgomery
+4
+2+half
+170000
+99 Smartley Pike
+images/307.jpg

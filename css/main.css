@@ -1,0 +1,142 @@
+/***************************
+        HEADER
+***************************/
+
+/***************************
+        BODY
+***************************/
+
+body{
+   
+    background-color: LightGray;
+    text-align: center;
+    
+
+}
+
+/***************************
+        MAIN
+***************************/
+main {
+  
+}
+/*
+#one{
+    margin-top: 30px;
+    margin-right: 10px;
+
+}
+*/
+#two{
+    margin-top: 5px;
+    margin-right: 50px;
+
+}
+#three{
+    margin-top: 5px;
+    margin-right: 50px;
+}
+
+.landing_choice{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.landing_choice form {
+    margin: 5px;
+}
+fieldset {
+    display: block;
+    margin-left: 15em;
+    margin-right:15em;
+}
+fieldset input[name='search'] {
+    margin-bottom: 1em;
+}
+main .contact-form{
+    margin-top:1.5em;
+    margin-bottom:1.5em;
+}
+
+.contact_form label {
+       float: left;
+       display: inline-block;
+       margin-left: 27em;
+       text-align: right;
+/*    display: inline-block;
+    margin-right: 15px;
+    vertical-align: baseline;
+    
+    padding:5px;
+    font-family:AR CENA;
+    font-size:20px;
+*/
+}
+main .contact_form input{
+    
+    display: inline;
+    width: 15em;
+    margin-left: 1em;
+    margin-right: 25em;
+    margin-bottom: .5em;
+    border-radius:5px;
+    background-color: lightblue;
+
+}
+main ul {
+    text-align: left;   
+}
+main input[name='reset_search']{
+    margin-top: .5em;
+}
+
+/***************************
+     DISPLAY PROPERTIES
+***************************/
+.property_display{
+    display: flex;
+    flex-wrap: wrap;   
+    justify-content: center;
+}
+
+
+figure{
+    flex-basis: 50px;
+    
+}
+
+figcaption {
+    
+}
+/***************************
+       DISPLAY REPORT
+***************************/
+main table {
+
+    width: 100%;
+    margin: auto;
+    margin-bottom: 2em;
+   
+}
+
+main table, th, td {
+    border: 1px solid black;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+    width: 200px;
+
+}
+.row{
+    display:inline-block;
+    margin-right:5px;
+    display: -webkit-box;
+
+
+}
+
+/***************************
+        FOOTER
+***************************/
+footer{
+  
+}
